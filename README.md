@@ -1,4 +1,4 @@
-![GitHub Profile](https://raw.githubusercontent.com/사용자명/저장소명/main/profile-background.svg)
+![GitHub Profile](https://github.com/SonMinSeock/SonMinSeock/blob/bookmark/profile-background.svg)
 
 
 
