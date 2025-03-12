@@ -1,16 +1,18 @@
-## Hi there 👋
+![GitHub Profile](https://raw.githubusercontent.com/사용자명/저장소명/main/profile-background.svg)
 
-<!--
-**SonMinSeock/SonMinSeock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Hi there 👋  
+Welcome to my GitHub profile!
+
+🌱 **Tech Stack**  
+- React, TypeScript, Java  
+- Unreal Engine (Networking)
+
+📌 **Current Project**  
+🚀 Running Crew (React + TypeScript)  
+📖 Unreal Engine Multiplayer Study
+
+📬 **Contact**  
+[![Gmail Badge](https://img.shields.io/badge/Gmail-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:your.email@gmail.com)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/yourprofile)
